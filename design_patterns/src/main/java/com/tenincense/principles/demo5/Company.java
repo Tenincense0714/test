@@ -10,6 +10,7 @@ public class Company {
     private String name;
     
     public String getName() {
+        System.out.println("test");
         return name;
     }
 

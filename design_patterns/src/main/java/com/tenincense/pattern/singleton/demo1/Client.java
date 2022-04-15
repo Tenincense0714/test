@@ -15,6 +15,7 @@ public class Client {
 
         //判断获取到的两个是否是同一个对象
         System.out.println(instance == instance1); //true
+        System.out.println("git测试");
     }
 
 }
